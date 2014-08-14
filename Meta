@@ -1,0 +1,28 @@
+=meta: 0.0.1
+
+name: 
+version: 0.0.1
+abstract: 
+homepage: https://metacpan.org/release/ 
+
+license: perl
+copyright: 2014. Ingy döt Net.
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+  homepage: http://ingy.net
+
+requires:
+  perl: 5.8.1
+
+devel:
+  git: https://github.com/ingydotnet/xxx-pm 
+  bug: https://github.com/ingydotnet/xxx-pm/issues 
+  irc: irc.freenode.net#pkg
+
+=travis:
+  type: perl
+  irc: irc.freenode.net#pkg
